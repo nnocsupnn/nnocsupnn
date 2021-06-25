@@ -19,7 +19,7 @@ const ownin = {
         name: "CodeHub",
         organization: "WorkSpacePH, Inc."
     },
-    hobbies: ["web scraping", "backend automation", "prototyping"]
+    hobbies: ["web scraping", "backend automation", "prototyping"],
     current_position: "Application Engineer"
 }
 ```
