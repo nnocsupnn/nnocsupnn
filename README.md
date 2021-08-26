@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 ```javascript
 const ownin = {
     years_experience: 4,
-    code: [Javascript, Python, PHP, Java, TypeScript, Dart, HTML, CSS, Shell],
+    code: [Javascript, Python, PHP, Java, Kotlin, TypeScript, Dart, HTML, CSS, Shell],
     tools_frameworks: [ReactJS, VueJS, NodeJS, Jenkins, SpringBoot, Flutter],
     architecture: ["microservices", "event-driven"],
     groups: {
