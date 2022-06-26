@@ -14,12 +14,9 @@ const ownin = {
     code: [Javascript, Python, PHP, Java, Kotlin, TypeScript, Dart, HTML, CSS, Shell],
     tools_frameworks: [ReactJS, VueJS, NodeJS, Jenkins, SpringBoot, Flutter],
     architecture: ["microservices", "event-driven"],
-    groups: {
-        name: "CodeHub",
-        organization: "WorkSpacePH, Inc."
-    },
+    groups: {},
     hobbies: ["web scraping", "backend automation", "prototyping"],
-    current_position: "Application Engineer"
+    current_position: "Application Analyst Team Lead"
 }
 ```
 <!-- - 💬 Ask me about ... -->
