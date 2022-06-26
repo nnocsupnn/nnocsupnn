@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on medical device integration
-- 🌱 I’m currently learning java/kotlin, jenkins and HL7 for IoMT
+- 🌱 I’m currently learning java/kotlin, kafka and microservices
 - 📫 How to reach me: nincas21@gmail.com
 - ⚡ Fun fact: 
 
