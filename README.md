@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on medical device integration
+- 🔭 I’m currently working on medical device, payment and other integration
 - 🌱 I’m currently learning java/kotlin, kafka and microservices
 - 📫 How to reach me: nincas21@gmail.com
 - ⚡ Fun fact: 
@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 ```javascript
 const ownin = {
     years_experience: 4,
+    current_role: 'Application Analyst - Team Lead',
     code: [Javascript, Python, PHP, Java, Kotlin, TypeScript, Dart, HTML, CSS, Shell],
     tools_frameworks: [ReactJS, VueJS, NodeJS, Jenkins, SpringBoot, Flutter],
     architecture: ["microservices", "event-driven"],
