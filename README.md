@@ -2,8 +2,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on medical device, payment and other integration
-- 🌱 I’m currently learning java/kotlin, kafka and microservices
+- 🔭 I’m currently working on medical device integration, payment and other integration
+- 🌱 I’m currently learning microservices structure using k8, docker and azure devops.
 - 📫 How to reach me: nincas21@gmail.com
 - ⚡ Fun fact: 
 
