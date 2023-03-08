@@ -30,10 +30,10 @@ I am a Applications Team Lead at Medicard Philippines, currently handling all th
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
-![Azure](https://img.shields.io/badge/Azure--Cloud-blue?style=flat&logo=azure-devops&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/Docker-blue?style=flat&logo=docker&logoColor=white)&nbsp;
-![Kubernetes](https://img.shields.io/badge/Kubernetes-violet?style=flat&logo=kubernetes&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
+![Azure](https://img.shields.io/badge/Azure--Cloud-blue?style=for-the-badge&logo=azure-devops&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![Kubernetes](https://img.shields.io/badge/Kubernetes-violet?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
 
 ## Connect with me:
 
