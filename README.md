@@ -1,6 +1,6 @@
 ### Hi there, I'm [Nino Casupanan](https://nnocsupnn.github.io) 👋
 
-I am a third year Machine Learning Ph.D. candidate at [Federation University](https://federation.edu.au), Australia. Apart from that I am seasonal ML developer that loves writing articles (on Machine Learning, Data Science, Productivity and PhD Tips) and contributing to open source.
+I am a Applications Team Lead at Medicard Philippines, currently handling all the development tasks and lead for integrations of medical devices. Im currently into Microservices and other interesting cloud tools. Such as Kubernetes and Docker. I like prototyping new technologies and stuff. 
 
 **My Reseach Interest**:
 - Outlying Aspect Mining
@@ -33,8 +33,8 @@ I am a third year Machine Learning Ph.D. candidate at [Federation University](ht
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
 ![Azure](https://img.shields.io/badge/Azure--Cloud-blue?style=flat&logo=azure-devops&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/Azure--Cloud-blue?style=flat&logo=docker&logoColor=white)&nbsp;
-![Kubernetes](https://img.shields.io/badge/Azure--Cloud-blue?style=flat&logo=kubernetes&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-blue?style=flat&logo=docker&logoColor=white)&nbsp;
+![Kubernetes](https://img.shields.io/badge/Kubernetes-violet?style=flat&logo=kubernetes&logoColor=white)&nbsp;
 
 ## Connect with me:
 
