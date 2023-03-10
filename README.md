@@ -44,6 +44,6 @@ I am a Applications Team Lead at Medicard Philippines, my responsibilities invol
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/nnocsupnn)
 </p>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nnocsupnn&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Nino's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnocsupnn&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nnocsupnn&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Nino's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnocsupnn&layout=compact&theme=dark&hide_border=true" /></a> |
 | ------------- | ------------- |
 
