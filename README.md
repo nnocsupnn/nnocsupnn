@@ -15,6 +15,7 @@ I am a Applications Team Lead at Medicard Philippines, my responsibilities invol
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![NodeJS](https://img.shields.io/badge/NodeJS-121011?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-121011?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
 ![Kotlin](https://img.shields.io/badge/Kotlin-blue?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 ![Dart](https://img.shields.io/badge/Dart-blue?style=for-the-badge&logo=dart&logoColor=white)&nbsp;
