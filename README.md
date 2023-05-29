@@ -7,6 +7,7 @@ I am a Applications Team Lead at Medicard Philippines, my responsibilities invol
 - New Technologies or Frameworks
 - Automation
 - Web Scraping
+- Back-End Development
 
 ## Skills:
 
