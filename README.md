@@ -8,6 +8,7 @@ I am a Applications Team Lead at Medicard Philippines, my responsibilities invol
 - Automation
 - Web Scraping
 - Back-End Development
+- DevSecOps
 
 ## Skills:
 
@@ -37,6 +38,7 @@ I am a Applications Team Lead at Medicard Philippines, my responsibilities invol
 ![Azure](https://img.shields.io/badge/Azure--Cloud-blue?style=for-the-badge&logo=azure-devops&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-violet?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
+![AzureDevOps](https://img.shields.io/badge/Azure--Cloud-blue?style=for-the-badge&logo=azure-devops&logoColor=white)&nbsp;
 
 ## Connect with me:
 
