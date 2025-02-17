@@ -1,11 +1,11 @@
 ### Hi there, I'm [Nino Casupanan](https://nnocsupnn.github.io) 👋
 
-💻 Tech Lead | Solution Designer | Developer | DevOps Enthusiast
-🚀 Passionate about microservices, cloud integration, and pioneering ideas
-🎮 Gamer & Programmer – I love solving complex problems and building scalable systems.
+💻 Tech Lead | Solution Designer | Developer | DevOps Enthusiast <br/>
+🚀 Passionate about microservices, cloud integration, and pioneering ideas <br/>
+🎮 Gamer & Programmer – I love solving complex problems and building scalable systems. <br/>
 
-🔹 Current Focus: Cloud Integration, DevOps, and Security Best Practices
-🔹 Interests: Solution Architecture, Distributed Systems, and Automation
+🔹 Current Focus: Cloud Integration, DevOps, and Security Best Practices <br/>
+🔹 Interests: Solution Architecture, Distributed Systems, and Automation <br/>
 
 **My Reseach Interest**:
 - Microservices
