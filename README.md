@@ -1,6 +1,11 @@
 ### Hi there, I'm [Nino Casupanan](https://nnocsupnn.github.io) 👋
 
-I am a Applications Team Lead at Medicard Philippines, my responsibilities involve managing all the development tasks and leading the integration of medical devices. Currently, I am focused on exploring Microservices and other fascinating cloud tools, including Kubernetes and Docker. I have a keen interest in prototyping new technologies and experimenting with ideas.
+💻 Tech Lead | Solution Designer | Developer | DevOps Enthusiast
+🚀 Passionate about microservices, cloud integration, and pioneering ideas
+🎮 Gamer & Programmer – I love solving complex problems and building scalable systems.
+
+🔹 Current Focus: Cloud Integration, DevOps, and Security Best Practices
+🔹 Interests: Solution Architecture, Distributed Systems, and Automation
 
 **My Reseach Interest**:
 - Microservices
