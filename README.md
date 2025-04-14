@@ -45,6 +45,7 @@
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-violet?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
 ![AzureDevOps](https://img.shields.io/badge/Azure--DevOps-blue?style=for-the-badge&logo=azure-devops&logoColor=white)&nbsp;
+![Terraform](https://img.shields.io/badge/Terraform-blue?style=for-the-badge&logo=terraform&logoColor=white)&nbsp;
 
 ## Connect with me:
 
