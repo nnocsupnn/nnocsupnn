@@ -31,6 +31,7 @@
 #### Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![MSSQL](https://img.shields.io/badge/MSSQL-316192?style=for-the-badge&logo=ssms&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-316192?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 
