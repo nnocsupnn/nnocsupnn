@@ -58,7 +58,3 @@
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/nnocsupnn/)
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/nnocsupnn)
 </p>
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nnocsupnn&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Nino's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnocsupnn&layout=compact&theme=dark&hide_border=true" /></a> |
-| ------------- | ------------- |
-
